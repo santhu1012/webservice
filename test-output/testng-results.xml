@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="343" started-at="2018-10-05T22:48:52Z" finished-at="2018-10-05T22:48:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="343" started-at="2018-10-05T22:48:52Z" finished-at="2018-10-05T22:48:52Z">
+      <class name="sg.ImpIQ.MergeTwoDataProviders">
+        <test-method status="PASS" signature="usingTwoDataProviders(java.util.HashMap)[pri:0, instance:sg.ImpIQ.MergeTwoDataProviders@51081592]" name="usingTwoDataProviders" duration-ms="214" started-at="2018-10-05T15:48:52Z" data-provider="dataProviderTwo" finished-at="2018-10-05T15:48:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{phone=9739847707, email=Santhosh.cs046@gmail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usingTwoDataProviders -->
+      </class> <!-- sg.ImpIQ.MergeTwoDataProviders -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
